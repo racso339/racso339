@@ -28,7 +28,7 @@ Mi diferencial: combino dominio del **sector eléctrico** con **analítica aplic
 
 🔍 [**TelecomX — Análisis Exploratorio**](https://github.com/racso339/racso339-Challenge_TelecomX_Alura) — EDA sobre datos de churn telecom: tasa de abandono, duración de contrato, facturación y métodos de pago (Python · Pandas · Matplotlib · Seaborn)
 
-🛍️ [**Alura Store — Análisis de ventas**](https://github.com/racso339/Challenge_Alura_Store) — Estudio de rendimiento de 4 tiendas para decisión de venta de una de ellas (Python · Pandas · viz)
+🛍️ [**Alura Store — Análisis de ventas**](https://github.com/racso339/Challenge_Alura_Store) — Estudio de rendimiento de 4 tiendas para decisión de venta (Python · Pandas · viz)
 
 ### 🎯 Buscando
 
@@ -39,6 +39,8 @@ Roles de **analista de datos / data engineer / data scientist** en **Medellín o
 🔗 LinkedIn: [linkedin.com/in/oscar-hserna](https://www.linkedin.com/in/oscar-hserna)
 
 📧 Email: ohsernap@unal.edu.co · racso339@gmail.com
+
+📄 CV: [Descargar PDF](CV_Oscar_Serna.pdf)
 
 📍 Medellín — Colombia
 
@@ -73,5 +75,7 @@ My edge: I combine **electrical sector domain knowledge** with **applied analyti
 🔗 LinkedIn: [linkedin.com/in/oscar-hserna](https://www.linkedin.com/in/oscar-hserna)
 
 📧 Email: ohsernap@unal.edu.co · racso339@gmail.com
+
+📄 Resume: [Download PDF](CV_Oscar_Serna.pdf)
 
 📍 Medellín — Colombia
